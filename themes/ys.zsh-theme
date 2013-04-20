@@ -2,8 +2,9 @@
 # Tested on Linux, Unix and Windows under ANSI colors.
 # It is recommended to use with a dark background.
 # Colors: black, red, green, yellow, *blue, magenta, cyan, and white.
-#
-# Mar 2013 Yad Smood
+# 
+# http://blog.ysmood.org/2013/03/my-ys-terminal-theme/
+# Mar 2013 ys
 
 # VCS
 YS_VCS_PROMPT_PREFIX1=" %{$reset_color%}on%{$fg[blue]%} "
